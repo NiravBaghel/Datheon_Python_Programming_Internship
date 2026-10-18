@@ -1,0 +1,68 @@
+{
+  "greetings": [
+    "hello",
+    "hi",
+    "hey",
+    "good morning",
+    "good afternoon"
+  ],
+  "faqs": [
+    {
+      "question": "What are your hours of operation?",
+      "answer": "We operate Monday through Friday from 9:00 AM to 6:00 PM IST."
+    },
+    {
+      "question": "How do I submit my internship project?",
+      "answer": "You can submit your public GitHub repository link through your Student Workspace."
+    },
+    {
+      "question": "When will I receive my certificate?",
+      "answer": "Certificates are reviewed and issued within 3-5 business days after your code review."
+    },
+    
+    {
+      "question": "How many tasks do I need to complete?",
+      "answer": "You need to complete at least 2 or 3 of the 4 tasks listed in the syllabus.",
+      "keywords": [
+        "tasks",
+        "minimum",
+        "syllabus",
+        "required"
+      ]
+    },
+    {
+      "question": "What should my GitHub repository be named?",
+      "answer": "Create a public repository named Datheon_Python_Programming_Internship.",
+      "keywords": [
+        "name",
+        "named",
+        "title"
+      ]
+    },
+    {
+      "question": "What should the repository include?",
+      "answer": "Include your source code, a clear folder structure, and a brief README.md explaining your project.",
+      "keywords": [
+        "contain",
+        "readme",
+        "folder",
+        "structure",
+        "source",
+        "code"
+      ]
+    },
+    {
+      "question": "Is there a bonus task?",
+      "answer": "Optionally, share a screenshot or demo video on LinkedIn tagging @Datheon.",
+      "keywords": [
+        "bonus",
+        "extra",
+        "credit",
+        "linkedin",
+        "video",
+        "screenshot",
+        "optional"
+      ]
+    }
+  ]
+}
